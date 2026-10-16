@@ -10,7 +10,7 @@
 
     docker compose run --rm eval --set golden --profile clean
 
-`set_hash`: `1bb0338e8325` (448 кейсів загалом, 43 у гейті `daily`. Серед них 11 нових retrieval-кейсів із `oracle: corpus`, `added_in: hw3`)
+`set_hash`: `1bb0338e8325` (48 кейсів загалом, 43 у гейті `daily`. Серед них 11 нових retrieval-кейсів із `oracle: corpus`, `added_in: hw3`)
 
 ## Retrieval-кейси
 
